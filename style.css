@@ -1,0 +1,34 @@
+
+body{
+    background: cadetblue;
+}
+
+.head{
+    color: blue;
+}
+
+#bglime{
+    background: lime;
+}
+
+#bglime span {
+    color:red;
+}
+
+p{
+   color: white;  
+}
+
+#para {
+    color: green;
+}
+
+#paras span{
+    color: black;
+    font-size: 30px;
+}
+
+li span{
+    color:blue;
+    text-decoration: underline;
+}
